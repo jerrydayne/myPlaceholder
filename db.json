@@ -1,4 +1,5 @@
-[
+{
+     "userList": [
      {
             "firstName": "Zulani",
             "lastName": "Ali Tameshi",
@@ -103,4 +104,6 @@
             "accountType": "User",
             "status" : "Active"
         },
-]
+],
+
+}
