@@ -1,0 +1,106 @@
+[
+     {
+            "firstName": "Zulani",
+            "lastName": "Ali Tameshi",
+            "email": "zulahaalitamesi@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Active"
+        },
+        {
+            "firstName": "Vendi",
+            "lastName": "Umaru Joseph",
+            "email": "vendiumarujay@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Inactive"
+        },
+        {
+            "firstName": "Samaila",
+            "lastName": "Jacob",
+            "email": "samiruwa@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Active"
+        },
+        {
+            "firstName": "Lupe",
+            "lastName": "Barka",
+            "email": "brainslupe@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Disable"
+        },
+        {
+            "firstName": "sula",
+            "lastName": "mairo",
+            "email": "hauwamangu@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Active"
+        },
+        {
+            "firstName": "Brains",
+            "lastName": "Ruwa",
+            "email": "hauwamangu@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Active"
+        },
+        {
+            "firstName": "Uche",
+            "lastName": "kawu",
+            "email": "hauwamangu@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Active"
+        },
+        {
+            "firstName": "lampat",
+            "lastName": "niro",
+            "email": "hauwamangu@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Active"
+        },
+        {
+            "firstName": "shittu",
+            "lastName": "Babale",
+            "email": "hauwamangu@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Active"
+        },
+        {
+            "firstName": "India",
+            "lastName": "Moscow",
+            "email": "hauwamangu@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Active"
+        },
+        {
+            "firstName": "Turaya",
+            "lastName": "Mary",
+            "email": "hauwamangu@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Active"
+        },
+        {
+            "firstName": "Saidu",
+            "lastName": "mark",
+            "email": "hauwamangu@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Active"
+        },
+        {
+            "firstName": "Brains",
+            "lastName": "Ruwa",
+            "email": "hauwamangu@gmail.com",
+            "phoneNumber": "+2348036009978",
+            "accountType": "User",
+            "status" : "Active"
+        },
+]
