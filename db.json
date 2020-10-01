@@ -1,4 +1,6 @@
-
+{
+     "userList": [
+          
      {
             "firstName": "Zulani",
             "lastName": "Ali Tameshi",
@@ -102,4 +104,7 @@
             "phoneNumber": "+2348036009978",
             "accountType": "User",
             "status" : "Active"
-        },
+        }
+
+          ]
+}
